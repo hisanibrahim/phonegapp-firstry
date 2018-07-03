@@ -1,1 +1,0 @@
-# phonegapp-firstry
